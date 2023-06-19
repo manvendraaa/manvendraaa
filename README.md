@@ -1,11 +1,13 @@
-### Hi there 👋
+### Hi there 👋 🔭 I’m currently working on React & C# at [Qualcomm](https://www.qualcomm.com/)
+- 🌱 I’m currently learning Devops (Docker, Kubernetes, CI/CD)
+- 🤔 I’m looking to collaborate on Javascript, Devops and C# projects
+- 📫 How to reach me on Twitter [@RthoreManvendra](https://twitter.com/RthoreManvendra) Or Manvendra.rathore1607@gmail.com
 
 <!--
 **manvendraaa/manvendraaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
