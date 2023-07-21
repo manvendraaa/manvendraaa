@@ -1,5 +1,5 @@
 ### Hi there 👋 🔭 I’m currently working on React & C# at [Qualcomm](https://www.qualcomm.com/)
-- 🌱 I’m currently learning Devops (Docker, Kubernetes, CI/CD)
+- 🌱 I’m currently learning Devops (Docker, Kubernetes, Terraform)
 - 🤔 I’m looking to collaborate on Javascript, Devops and C# projects
 - 📫 How to reach me on Twitter [@RthoreManvendra](https://twitter.com/RthoreManvendra) Or Manvendra.rathore1607@gmail.com
 
