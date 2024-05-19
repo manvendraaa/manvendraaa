@@ -1,5 +1,5 @@
-### Hi there 👋 🔭 I’m currently working on React & C# at [Qualcomm](https://www.qualcomm.com/)
-- 🌱 I’m currently learning Go
+### Hi there 👋 🔭 I’m currently working on React, .Net & C# at [Qualcomm](https://www.qualcomm.com/)
+- 🌱 I’m currently learning Computer network in depth.
 - 🤔 I’m looking to collaborate on React, JS, Go and C# (.Net) projects
 - 📫 How to reach me on Twitter [@RthoreManvendra](https://twitter.com/RthoreManvendra) Or Manvendra.rathore1607@gmail.com
 
